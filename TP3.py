@@ -13,3 +13,5 @@ print("testOu =", testOu)
 # Test des operateurs combines
 a = a+1
 print("a = ", a)
+
+# Test merge
